@@ -16,7 +16,7 @@ This project allows you to reuse IDM’s 30-day trial without requiring a licens
 ## 📥 Installation
 
 1. **Download IDM Trial Reset**  
-   Get the latest release from the project page.
+   👉 [**Download from Releases**](https://github.com/Eshkhuvvatofff/idm-trial-reset/releases/latest)  
 
 2. **Close IDM completely**  
    If IDM is running in the background, close it via the system tray or Task Manager.
